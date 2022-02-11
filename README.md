@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **an internship (Praktikum)**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **App Development**
 
 - 👨‍💻 All of my projects are available at [ryancoulson.net](ryancoulson.net)
 

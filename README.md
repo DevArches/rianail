@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **App Development**
 
-- 👨‍💻 All of my projects are available at [ryancoulson.net](ryancoulson.net)
-
 - 📫 How to reach me **ryanjcoulson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

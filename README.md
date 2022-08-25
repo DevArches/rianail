@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Coulson</h1>
 <h3 align="center">A passionate frontend developer from the US living in Germany</h3>
 
-- 🔭 I’m currently looking for **an internship (Praktikum)**
+- 🔭 I’m currently looking for **all opportunities**
 
 - 🌱 I’m currently learning **App Development**
 
